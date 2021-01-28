@@ -1,4 +1,4 @@
-# Bioactivity SARS coronavirus
+# **Bioactivity of SARS coronavirus**
 
 This project is inspired by Data Professor youtube channel 
 
